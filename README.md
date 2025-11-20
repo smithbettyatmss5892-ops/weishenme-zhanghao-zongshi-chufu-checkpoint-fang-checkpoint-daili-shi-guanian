@@ -44,7 +44,7 @@ Checkpoint 是像 Facebook、Google 或 Instagram 等在线服务常用的一种
 
 ## 为什么防 checkpoint 代理至关重要？
 
-当你的账户频繁触发 checkpoint 时，操作可能会中断并浪费时间。然而，防 checkpoint 代理正是帮助你维持稳定连接、保护账户免受安全风险的解决方案。借助 9Proxy，你将拥有强大的工具来应对这些挑战。
+当你的账户频繁触发 checkpoint 时，操作可能会中断并浪费时间。然而，防 checkpoint 代理正是帮助你维持稳定连接、保护账户免受安全风险的解决方案。借助 [_**9Proxy**_](https://the9proxy.short.gy/github13-pricing-xiaoweiwei473)，你将拥有强大的工具来应对这些挑战。
 
 ## 结论
 
